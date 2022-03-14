@@ -1,0 +1,13 @@
+node_modules
+build
+
+.expo
+.next
+
+ios
+android
+
+.test
+create-test-app
+
+.DS_Store
